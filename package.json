@@ -1,10 +1,9 @@
 {
   "name": "threejs-demo-najimovich",
-  "homepage": "https://oxyf.github.io/react-three-fiber-demo",
+  "homepage": "https://oxyf.github.io/react-three-fiber-demo/",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "src/index.js",
   "dependencies": {
     "@react-spring/three": "^9.0.0-rc.3",
     "@react-three/drei": "^2.2.17",
