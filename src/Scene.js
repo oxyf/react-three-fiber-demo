@@ -2,7 +2,7 @@ import React from 'react';
 import {useGLTF} from '@react-three/drei/useGLTF';
 import {useTexture} from '@react-three/drei';
 
-useGLTF.preload('/room.glb');
+useGLTF.preload('room.glb');
 
 const Textured = ({materials, nodes}) => {
   const [colorMap, normalMap] = useTexture([
@@ -30,7 +30,7 @@ const Textured = ({materials, nodes}) => {
 };
 
 const Model = (props) => {
-  const {nodes, materials} = useGLTF('/room.glb');
+  const {nodes, materials} = useGLTF('room.glb');
   return (
     <group {...props} dispose={null}>
       <Textured nodes={nodes} materials={materials} />
