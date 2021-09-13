@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-three-fiber-demo/static/css/main.80583a33.chunk.css",
-    "main.js": "/react-three-fiber-demo/static/js/main.781ec747.chunk.js",
-    "main.js.map": "/react-three-fiber-demo/static/js/main.781ec747.chunk.js.map",
-    "runtime-main.js": "/react-three-fiber-demo/static/js/runtime-main.16721202.js",
-    "runtime-main.js.map": "/react-three-fiber-demo/static/js/runtime-main.16721202.js.map",
-    "static/js/2.782c8bbc.chunk.js": "/react-three-fiber-demo/static/js/2.782c8bbc.chunk.js",
-    "static/js/2.782c8bbc.chunk.js.map": "/react-three-fiber-demo/static/js/2.782c8bbc.chunk.js.map",
-    "index.html": "/react-three-fiber-demo/index.html",
-    "precache-manifest.e5b821141d890516accf05fad48ae8b8.js": "/react-three-fiber-demo/precache-manifest.e5b821141d890516accf05fad48ae8b8.js",
-    "service-worker.js": "/react-three-fiber-demo/service-worker.js",
-    "static/css/main.80583a33.chunk.css.map": "/react-three-fiber-demo/static/css/main.80583a33.chunk.css.map",
-    "static/js/2.782c8bbc.chunk.js.LICENSE.txt": "/react-three-fiber-demo/static/js/2.782c8bbc.chunk.js.LICENSE.txt"
+    "main.css": "https://localhost:3000/static/css/main.80583a33.chunk.css",
+    "main.js": "https://localhost:3000/static/js/main.781ec747.chunk.js",
+    "main.js.map": "https://localhost:3000/static/js/main.781ec747.chunk.js.map",
+    "runtime-main.js": "https://localhost:3000/static/js/runtime-main.bc5e8725.js",
+    "runtime-main.js.map": "https://localhost:3000/static/js/runtime-main.bc5e8725.js.map",
+    "static/js/2.782c8bbc.chunk.js": "https://localhost:3000/static/js/2.782c8bbc.chunk.js",
+    "static/js/2.782c8bbc.chunk.js.map": "https://localhost:3000/static/js/2.782c8bbc.chunk.js.map",
+    "index.html": "https://localhost:3000/index.html",
+    "precache-manifest.da27592466e1a7620473312e315cd7c4.js": "https://localhost:3000/precache-manifest.da27592466e1a7620473312e315cd7c4.js",
+    "service-worker.js": "https://localhost:3000/service-worker.js",
+    "static/css/main.80583a33.chunk.css.map": "https://localhost:3000/static/css/main.80583a33.chunk.css.map",
+    "static/js/2.782c8bbc.chunk.js.LICENSE.txt": "https://localhost:3000/static/js/2.782c8bbc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.16721202.js",
+    "static/js/runtime-main.bc5e8725.js",
     "static/js/2.782c8bbc.chunk.js",
     "static/css/main.80583a33.chunk.css",
     "static/js/main.781ec747.chunk.js"
