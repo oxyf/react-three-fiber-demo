@@ -2,6 +2,8 @@ import React from 'react';
 import {useGLTF} from '@react-three/drei/useGLTF';
 import {useTexture} from '@react-three/drei';
 
+useGLTF.preload('/room.glb');
+
 const Textured = ({materials, nodes}) => {
   const [colorMap, normalMap] = useTexture([
     'Fabric023_1K_Color.jpg',
@@ -327,5 +329,3 @@ const Model = (props) => {
 };
 
 export default Model;
-
-useGLTF.preload('/bake.glb');
